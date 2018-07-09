@@ -1,0 +1,6 @@
+framework module Pods_ImageDisplayerTests {
+  umbrella header "Pods-ImageDisplayerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
