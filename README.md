@@ -1,10 +1,6 @@
 # Image Displayer Application using Swift 4.0 Alamofire using MVP architecture pattern
 
-This application is an photos of Flickr API.  Developed using in Swift. it uses a UICollectionViewController and designed using MVP architecture patter.
-
-![Screen One ](screen1.png?raw=true "First Screen")
-
-![Screen Two ](screen2.png?raw=true "Second Screen")
+This application is showing photos of Flickr API. App is completely developed using in Swift. it uses a UICollectionViewController and designed using MVP architecture pattern.
 
 ### How to run
 
@@ -13,11 +9,12 @@ This application is an photos of Flickr API.  Developed using in Swift. it uses 
 - run the ImageDisplayer.xcworkspace
 
 
-### Other Notes
-
-
+### TODO
 
 - I have not yet done the local sync using coredata yet.
 - FileUtility.swift is implemented to save the image locally and the name will be saved in db.
-- ImagePresenter contains the business logics.
 
+
+![Screen One ](screen1.png?raw=true "First Screen")
+
+![Screen Two ](screen2.png?raw=true "Second Screen")
